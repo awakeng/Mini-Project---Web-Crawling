@@ -1,3 +1,6 @@
-ï»¿system.out.println("ì´ê²Œ ë˜ë‚˜?");
-system.out.println("ì•„ëª¨ë¥¸ì§ë‹¤");
-system.out.println("ì•„ëª¨ë¥¸ì§ë‹¤2");
+system.out.println("ÀÌ°Ô µÇ³ª?");
+system.out.println("¾Æ¸ğ¸¥Á÷´Ù");
+system.out.println("¾Æ¸ğ¸¥Á÷´Ù2");
+system.out.println("¾Æ¸ğ¸¥Á÷´Ù2");
+system.out.println("¾Æ¸ğ¸¥Á÷´Ù2");
+system.out.println("¾Æ¸ğ¸¥Á÷´Ù2");
